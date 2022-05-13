@@ -1,0 +1,11 @@
+{
+    "Menu": {
+       "Veg": {
+        "Vegan Burger(1 Piece)": "INR 320",
+        "Truffle Cake (500gm)": "INR 900"
+          },
+        "Non-Veg":{
+         "Tandoori Chicken (4 pieces)": "INR 240"
+          }
+     }
+  }
